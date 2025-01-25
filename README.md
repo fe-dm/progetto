@@ -10,11 +10,7 @@ body {
 margin: 0;
 padding: 0;
 height: 100vh;
-background: url('https://media4.giphy.com/me
-dia/v1.Y2lkPTc5MGI3NjExdzB1cTg5ZnhtN3d1YWxpOXhsNzJibGdma
-3A5M2k5OGh4MG5oeGV4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY
-3Q9Zw/hPlsN9Z6JNF4s/giphy.gif') no-repeat center center
-fixed;
+background: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB1cTg5ZnhtN3d1YWxpOXhsNzJibGdma3A5M2k5OGh4MG5oeGV4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hPlsN9Z6JNF4s/giphy.gif') no-repeat center centerfixed;
 background-size: cover;
 font-family: Arial, sans-serif;
 color: white;
