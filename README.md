@@ -2,10 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, i
-nitial-scale=1.0">
-<title>Guitar GIF Background with Dropdown Menu</tit
-le>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guitar GIF Background with Dropdown Menu</title>
 <style>
 /* Full-screen background gif */
 body {
@@ -150,11 +148,9 @@ function showPage(pageId) {
 // Hide all content
 const contents = document.querySelectorAll
 ('.content');
-contents.forEach(content => content.classLis
-t.remove('active'));
+contents.forEach(content => content.classList.remove('active'));
 // Show selected content
-const page = document.getElementById(pageI
-d);
+const page = document.getElementById(pageId);
 if (page) {
 page.classList.add('active');
 }
